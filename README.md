@@ -16,30 +16,33 @@
 
 ## 🌐 Connect with Me
 <p align="left">
+  <a href="https://fb.com/https://www.facebook.com/profile.php?id=100012573888621" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100012573888621" height="30" width="40" />
+  </a>
+   <a href="https://linkedin.com/in/https://www.linkedin.com/in/moniruzzaman-monir-52a282245/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moniruzzaman-monir-52a282245/" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/[your_instagram_profile](https://www.instagram.com/grin__ghost/)" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/grin__ghost/" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/01786621989" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="01786621989" height="30" width="40" />
+  </a>
   <a href="https://codepen.io/moniruzzaman-monir" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="moniruzzaman-monir" height="30" width="40" />
   </a>
   <a href="https://dev.to/moniruzzaman_monir" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="moniruzzaman_monir" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/moniruzzaman-monir-52a282245/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moniruzzaman-monir-52a282245/" height="30" width="40" />
-  </a>
+ 
   <a href="https://stackoverflow.com/users/19984768" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19984768" height="30" width="40" />
   </a>
-  <a href="https://fb.com/https://www.facebook.com/profile.php?id=100012573888621" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100012573888621" height="30" width="40" />
-  </a>
+  
   <a href="https://discord.gg/1234931719946240094" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1234931719946240094" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/your_instagram_profile" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_instagram_profile" height="30" width="40" />
-  </a>
-  <a href="https://wa.me/your_whatsapp_number" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="your_whatsapp_number" height="30" width="40" />
-  </a>
+  
 </p>
 
 
