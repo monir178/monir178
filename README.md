@@ -158,7 +158,7 @@ I am a passionate MERN Stack developer with expertise in building dynamic and re
    An e-commerce platform built with the MERN stack. Features include product listings, shopping cart, user authentication, and payment integration.
    [Shine Store README](https://github.com/monir178/shine-store-client/blob/main/README.md)
 
-2. **[Project 2 Name](https://github.com/monir178/unity-uplift-client)**  
+2. **[Unity Uplift](https://github.com/monir178/unity-uplift-client)**  
    A brief description of the project, its features, and technologies used.
-   [Project 2 README](https://github.com/monir178/unity-uplift-client/blob/main/README.md)
+   [Unity Uplift README](https://github.com/monir178/unity-uplift-client/blob/main/README.md)
 
