@@ -25,7 +25,7 @@
   <a href="https://www.instagram.com/grin__ghost/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/grin__ghost/" height="30" width="40" />
   </a>
-  <a href="https://wa.me/01786621989" target="blank">
+  <a href="https://wa.me/+8801786621989" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="01786621989" height="30" width="40" />
   </a>
   <a href="https://codepen.io/moniruzzaman-monir" target="blank">
