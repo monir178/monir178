@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moniruzzaman Monir</h1>
 <h3 align="center">A passionate MERN Stack developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monir178&label=Profile%20views&color=0e75b6&style=flat" alt="monir178" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monir178" alt="monir178" /></a> </p>
 
@@ -18,14 +19,18 @@
 
 - 📄 Know about my experiences [submit later](submit later)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/moniruzzaman-monir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="moniruzzaman-monir" height="30" width="40" /></a>
 <a href="https://dev.to/moniruzzaman_monir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="moniruzzaman_monir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/moniruzzaman monir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moniruzzaman monir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/moniruzzaman-monir-52a282245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moniruzzaman-monir-52a282245/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19984768" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19984768" height="30" width="40" /></a>
-<a href="https://fb.com/moniruzzaman monir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moniruzzaman monir" height="30" width="40" /></a>
-<a href="https://discord.gg/moniruzzamanmonir1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="moniruzzamanmonir1" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100012573888621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100012573888621" height="30" width="40" /></a>
+<a href="https://discord.gg/1234931719946240094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1234931719946240094" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
