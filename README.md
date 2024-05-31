@@ -13,97 +13,6 @@
   </a> 
 </p>
 
-## 👨‍💻 About Me
-I am a passionate MERN Stack developer with expertise in building dynamic and responsive web applications. I specialize in working with MongoDB, Express.js, React.js, and Node.js. My goal is to continuously learn and implement new technologies to solve real-world problems efficiently.
-
-- 🔭 I’m currently working on [Shine Store](https://shine-store-seven.vercel.app/)
-
-- 🌱 I’m currently learning **NextJs, GraphQl, Testing, Docker**
-
-- 💬 Ask me about **ReactJs, NextJs, ExpressJs, Redux**
-
-- 📫 How to reach me **monir.mzs17@gmail.com**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](#)
-
-- 📝 I regularly write articles on [My Blog](#)
-
-- 📄 Know about my experiences [My Resume](#)
-
-## 🛠️ Technologies & Tools
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-</p>
-
-## 📈 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monir178&show_icons=true&locale=en&layout=compact" alt="monir178" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=monir178&show_icons=true&locale=en" alt="monir178" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monir178&" alt="monir178" />
-</p>
-
-## 📌 Pinned Projects
-1. **[Shine Store](https://github.com/monir178/shine-store)**  
-   An e-commerce platform built with the MERN stack. Features include product listings, shopping cart, user authentication, and payment integration.
-   [Shine Store README](https://github.com/monir178/shine-store/blob/main/README.md)
-
-2. **[Project 2 Name](https://github.com/monir178/project-2)**  
-   A brief description of the project, its features, and technologies used.
-   [Project 2 README](https://github.com/monir178/project-2/blob/main/README.md)
-
-3. **[Project 3 Name](https://github.com/monir178/project-3)**  
-   A brief description of the project, its features, and technologies used.
-   [Project 3 README](https://github.com/monir178/project-3/blob/main/README.md)
 
 ## 🌐 Connect with Me
 <p align="left">
@@ -125,4 +34,128 @@ I am a passionate MERN Stack developer with expertise in building dynamic and re
   <a href="https://discord.gg/1234931719946240094" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1234931719946240094" height="30" width="40" />
   </a>
+  <a href="https://instagram.com/your_instagram_profile" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_instagram_profile" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/your_whatsapp_number" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="your_whatsapp_number" height="30" width="40" />
+  </a>
 </p>
+
+
+## 👨‍💻 About Me
+I am a passionate MERN Stack developer with expertise in building dynamic and responsive web applications. I specialize in working with MongoDB, Express.js, React.js, and Node.js. My goal is to continuously learn and implement new technologies to solve real-world problems efficiently.
+
+- 🔭 I’m currently working on [Shine Store](https://shine-store-seven.vercel.app/)
+
+- 🌱 I’m currently learning **NextJs, GraphQl, Testing, Docker**
+
+- 💬 Ask me about **ReactJs, NextJs, ExpressJs, Redux**
+
+- 📫 How to reach me **monir.mzs17@gmail.com**
+
+- 👨‍💻 All of my projects are available at [My Portfolio](#)
+
+- 📝 I regularly write articles on [My Blog](#)
+
+- 📄 Know about my experiences [My Resume](#)
+
+## 🛠️ Technologies & Tools
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+
+  
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+
+  
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+
+  
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+
+  
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  </a>
+
+  
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+
+  
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+
+  
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+
+  
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+
+  
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+
+  
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+
+  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+
+  
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+
+  
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+</p>
+
+## 📈 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monir178&show_icons=true&locale=en&layout=compact" alt="monir178" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=monir178&show_icons=true&locale=en" alt="monir178" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monir178&" alt="monir178" />
+</p>
+
+## 📌 Pinned Projects
+1. **[Shine Store](https://github.com/monir178/shine-store)**  
+   An e-commerce platform built with the MERN stack. Features include product listings, shopping cart, user authentication, and payment integration.
+   [Shine Store README](https://github.com/monir178/shine-store-client/blob/main/README.md)
+
+2. **[Project 2 Name](https://github.com/monir178/unity-uplift-client)**  
+   A brief description of the project, its features, and technologies used.
+   [Project 2 README](https://github.com/monir178/unity-uplift-client/blob/main/README.md)
+
