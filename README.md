@@ -166,10 +166,10 @@ I am a passionate MERN Stack developer with expertise in building dynamic and re
 
 ## 📌 Pinned Projects
 1. **[Shine Store](https://github.com/monir178/shine-store)**  
-   An e-commerce platform built with the MERN stack. Features include product listings, shopping cart, user authentication, and payment integration.
+ Discover a world of cleanliness and convenience at Shine Store. We offer a wide selection of premium cleaning supplies to keep your space pristine. From eco-friendly solutions to cutting-edge tools, find everything you need for a sparkling home or office.
    [Shine Store README](https://github.com/monir178/shine-store-client/blob/main/README.md)
 
 2. **[Unity Uplift](https://github.com/monir178/unity-uplift-client)**  
-   A brief description of the project, its features, and technologies used.
+Our platform provides a comprehensive solution for organizing, tracking, and delivering relief goods efficiently and effectively, ensuring that aid reaches the right people at the right time. Together, let's make a positive impact and uplift communities in need.
    [Unity Uplift README](https://github.com/monir178/unity-uplift-client/blob/main/README.md)
 
