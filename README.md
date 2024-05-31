@@ -15,7 +15,7 @@
 
 
 ## 🌐 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://fb.com/https://www.facebook.com/profile.php?id=100012573888621" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100012573888621" height="30" width="40" />
   </a>
@@ -64,7 +64,7 @@ I am a passionate MERN Stack developer with expertise in building dynamic and re
 - 📄 Know about my experiences [My Resume](#)
 
 ## 🛠️ Technologies & Tools
-<p align="center">
+<p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
