@@ -1,90 +1,39 @@
-```markdown
-![Banner](https://your-banner-url.com/banner-image.png)
+<h1 align="center">Hi 👋, I'm Moniruzzaman Monir</h1>
+<h3 align="center">A passionate MERN Stack developer</h3>
 
-# Hi there, I'm [Your Name] 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monir178&label=Profile%20views&color=0e75b6&style=flat" alt="monir178" /> </p>
 
-I am a passionate MERN Stack Developer dedicated to crafting high-quality web applications. I enjoy transforming ideas into reality using code and bringing creative solutions to life in the digital world.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monir178" alt="monir178" /></a> </p>
 
-## 🚀 Vision
-My vision is to create innovative web applications that enhance user experiences and streamline business processes. I believe in continuous learning and adapting to new technologies to stay at the forefront of web development.
+- 🔭 I’m currently working on [Shine Store](https://shine-store-seven.vercel.app/)
 
-## 🌟 Skills & Technologies
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- 🌱 I’m currently learning **NextJs, GraphQl,Testing,Docker**
 
-## 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+- 👨‍💻 All of my projects are available at [submit later](submit later)
 
-## 📫 Contact Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+- 📝 I regularly write articles on [submit later](submit later)
 
-## 💼 Pinned Projects
+- 💬 Ask me about **ReactJs, NextJs, ExpressJs, Redux**
 
-### [Project 1](https://github.com/your-github-username/project1)
-![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project1&theme=radical)
-- **Description:** Brief description of what the project is about.
-- **Technologies Used:** JavaScript, React, Node.js, MongoDB
+- 📫 How to reach me **monir.mzs17@gmail.com**
 
-### [Project 2](https://github.com/your-github-username/project2)
-![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project2&theme=radical)
-- **Description:** Brief description of what the project is about.
-- **Technologies Used:** JavaScript, React, Node.js, MongoDB
+- 📄 Know about my experiences [submit later](submit later)
 
-### [Project 3](https://github.com/your-github-username/project3)
-![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project3&theme=radical)
-- **Description:** Brief description of what the project is about.
-- **Technologies Used:** JavaScript, React, Node.js, MongoDB
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/moniruzzaman-monir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="moniruzzaman-monir" height="30" width="40" /></a>
+<a href="https://dev.to/moniruzzaman_monir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="moniruzzaman_monir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/moniruzzaman monir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moniruzzaman monir" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19984768" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19984768" height="30" width="40" /></a>
+<a href="https://fb.com/moniruzzaman monir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moniruzzaman monir" height="30" width="40" /></a>
+<a href="https://discord.gg/moniruzzamanmonir1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="moniruzzamanmonir1" height="30" width="40" /></a>
+</p>
 
-## 📄 Project READMEs
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### Project 1
-#### Overview
-- Detailed description of Project 1.
-- Features, technologies used, and the purpose of the project.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monir178&show_icons=true&locale=en&layout=compact" alt="monir178" /></p>
 
-### Project 2
-#### Overview
-- Detailed description of Project 2.
-- Features, technologies used, and the purpose of the project.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monir178&show_icons=true&locale=en" alt="monir178" /></p>
 
-### Project 3
-#### Overview
-- Detailed description of Project 3.
-- Features, technologies used, and the purpose of the project.
-
----
-
-Thanks for visiting my profile! Feel free to reach out if you have any questions or collaboration ideas.
-```
-
-### Customizing and Adding Animations
-
-1. **Banner Image:** Replace the banner URL with the link to your banner image. Create an eye-catching banner using graphic design tools like Canva or Adobe Spark.
-
-2. **GitHub Stats and Pinned Repositories:** The GitHub stats and pinned repositories can be animated using the [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and [GitHub Readme Pinned](https://github.com/matchai/awesome-pinned-gists).
-
-3. **Technologies Logos:** Use badges from [Shields.io](https://shields.io/) to represent the technologies you work with. These badges can be animated using SVGs or embedded GIFs.
-
-4. **Contact Links:** Ensure your social media and email links are up to date and correct.
-
-### Adding Animations
-
-To add animations, you can use GIFs or animated SVGs. For example, if you want to add an animated GitHub commit status, you can include a GIF:
-
-```markdown
-![GitHub Commit Status](https://your-gif-url.com/github-commit-status.gif)
-```
-
-Ensure your animations are professional and do not clutter the README.
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monir178&" alt="monir178" /></p>
