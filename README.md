@@ -167,7 +167,7 @@ I am a passionate MERN Stack developer with expertise in building dynamic and re
 ## 📌 Pinned Projects
 1. **[Shine Store](https://shine-store-seven.vercel.app/)**  
  Discover a world of cleanliness and convenience at Shine Store. We offer a wide selection of premium cleaning supplies to keep your space pristine. From eco-friendly solutions to cutting-edge tools, find everything you need for a sparkling home or office.
-   - [GitHub Client Side](hhttps://github.com/monir178/shine-store-client)
+   - [GitHub Client Side](https://github.com/monir178/shine-store-client)
    - [Server Side Code](https://github.com/monir178/shine-store-server)
    - [Shine Store README](https://github.com/monir178/shine-store-client/blob/main/README.md)
 
