@@ -151,6 +151,21 @@ I am a passionate MERN Stack developer with expertise in building dynamic and re
 </p>
 
 
+## 📌 Pinned Projects
+1. **[Shine Store](https://shine-store-seven.vercel.app/)**  
+ Discover a world of cleanliness and convenience at Shine Store. We offer a wide selection of premium cleaning supplies to keep your space pristine. From eco-friendly solutions to cutting-edge tools, find everything you need for a sparkling home or office.
+   - [GitHub Client Side](https://github.com/monir178/shine-store-client)
+   - [Server Side Code](https://github.com/monir178/shine-store-server)
+   - [Shine Store README](https://github.com/monir178/shine-store-client/blob/main/README.md)
+
+2. **[Unity Uplift](https://unity-uplift-client.vercel.app/)**  
+Our platform provides a comprehensive solution for organizing, tracking, and delivering relief goods efficiently and effectively, ensuring that aid reaches the right people at the right time. Together, let's make a positive impact and uplift communities in need.
+   - [GitHub Client Side](https://github.com/monir178/unity-uplift-client)
+   - [Server Side Code](https://github.com/monir178/unity-uplift-server)
+   - [Unity Uplift README](https://github.com/monir178/unity-uplift-client/blob/main/README.md)
+
+
+
 ## 📈 GitHub Stats
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monir178&show_icons=true&locale=en&layout=compact" alt="monir178" />
@@ -164,16 +179,4 @@ I am a passionate MERN Stack developer with expertise in building dynamic and re
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monir178&" alt="monir178" />
 </p>
 
-## 📌 Pinned Projects
-1. **[Shine Store](https://shine-store-seven.vercel.app/)**  
- Discover a world of cleanliness and convenience at Shine Store. We offer a wide selection of premium cleaning supplies to keep your space pristine. From eco-friendly solutions to cutting-edge tools, find everything you need for a sparkling home or office.
-   - [GitHub Client Side](https://github.com/monir178/shine-store-client)
-   - [Server Side Code](https://github.com/monir178/shine-store-server)
-   - [Shine Store README](https://github.com/monir178/shine-store-client/blob/main/README.md)
-
-2. **[Unity Uplift](https://unity-uplift-client.vercel.app/)**  
-Our platform provides a comprehensive solution for organizing, tracking, and delivering relief goods efficiently and effectively, ensuring that aid reaches the right people at the right time. Together, let's make a positive impact and uplift communities in need.
-   - [GitHub Client Side](https://github.com/monir178/unity-uplift-client)
-   - [Server Side Code](https://github.com/monir178/unity-uplift-server)
-   - [Unity Uplift README](https://github.com/monir178/unity-uplift-client/blob/main/README.md)
 
