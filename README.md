@@ -163,6 +163,12 @@ Our platform provides a comprehensive solution for organizing, tracking, and del
    - [GitHub Client Side](https://github.com/monir178/unity-uplift-client)
    - [Server Side Code](https://github.com/monir178/unity-uplift-server)
    - [Unity Uplift README](https://github.com/monir178/unity-uplift-client/blob/main/README.md)
+     
+2. **[Event 360](https://event360-iota.vercel.app/)**  
+Our platform provides a comprehensive solution for organizing, tracking, and delivering relief goods efficiently and effectively, ensuring that aid reaches the right people at the right time. Together, let's make a positive impact and uplift communities in need.
+   - [GitHub Client Side](https://github.com/monir178/event-360-client)
+   - [Server Side Code](https://github.com/monir178/event-360-server)
+   - [Unity Uplift README](https://github.com/monir178/unity-uplift-client/blob/main/README.md)
 
 
 
