@@ -43,7 +43,7 @@
 
 
 ## 👨‍💻 About Me
-I am a passionate MERN Stack developer with expertise in building dynamic and responsive web applications. I specialize in working with MongoDB, Express.js, React.js, and Node.js. My goal is to continuously learn and implement new technologies to solve real-world problems efficiently.
+I am a passionate MERN Stack developer with expertise in building dynamic and responsive web applications. I specialize in working with Next.js, React.js, Typescript, MongoDB, Redux, Express.js, Node.js. My goal is to continuously learn and implement new technologies to solve real-world problems efficiently.
 
 - 🔭 I’m currently working on [Shine Store](https://shine-store-seven.vercel.app/)
 
