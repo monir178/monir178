@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQFNgil3YS9UgQ/profile-displaybackgroundimage-shrink_350_1400/0/1717185589130?e=1722470400&v=beta&t=KKtNbMe0DBkI6KYrW-NkABLgO3o4jPmKVNmu4Wq8sdo" alt="Banner" />
+<img src="https://media.licdn.com/dms/image/D5616AQGkleXuW8AkBQ/profile-displaybackgroundimage-shrink_350_1400/0/1717494526354?e=1723075200&v=beta&t=d2MOxCxrFJxa9tb6eZw_VdUlhshkRAwf5KU3sGg6Wok" alt="Banner" />
 
 <h1 align="center">Hi 👋, I'm Moniruzzaman Monir</h1>
 <h3 align="center">A passionate MERN Stack developer</h3>
