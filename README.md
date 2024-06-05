@@ -53,9 +53,7 @@ I am a passionate MERN Stack developer with expertise in building dynamic and re
 
 - 📫 How to reach me **monir.mzs17@gmail.com**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](#)
-
-- 📝 I regularly write articles on [My Blog](#)
+- 👨‍💻 All of my projects are available at https://monir-portfolio-wine.vercel.app/
 
 - 📄 Know about my experiences [My Resume](#)
 
