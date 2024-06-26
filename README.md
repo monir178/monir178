@@ -35,9 +35,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19984768" height="30" width="40" />
   </a>
   
-  <a href="https://discord.gg/moniruzzamanmonir1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1234931719946240094" height="30" width="40" />
-  </a>
+<a href="https://discord.gg/moniruzzamanmonir1" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1234931719946240094" height="30" width="40" />
+</a>
+
   
 </p>
 
