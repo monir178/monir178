@@ -38,8 +38,19 @@
 <a href="https://discord.gg/moniruzzamanmonir1" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1234931719946240094" height="30" width="40" />
 </a>
+</p>
 
-  
+## 📈 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monir178&show_icons=true&locale=en&layout=compact" alt="monir178" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=monir178&show_icons=true&locale=en" alt="monir178" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monir178&" alt="monir178" />
 </p>
 
 
@@ -167,17 +178,6 @@ Our platform provides a comprehensive solution for organizing, tracking, and del
 
 
 
-## 📈 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monir178&show_icons=true&locale=en&layout=compact" alt="monir178" />
-</p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=monir178&show_icons=true&locale=en" alt="monir178" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monir178&" alt="monir178" />
-</p>
 
 
