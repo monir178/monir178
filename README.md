@@ -40,18 +40,6 @@
 </a>
 </p>
 
-## 📈 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monir178&show_icons=true&locale=en&layout=compact" alt="monir178" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=monir178&show_icons=true&locale=en" alt="monir178" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monir178&" alt="monir178" />
-</p>
 
 
 ## 👨‍💻 About Me
@@ -154,6 +142,19 @@ I am a passionate MERN Stack developer with expertise in building dynamic and re
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
+</p>
+
+## 📈 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monir178&show_icons=true&locale=en&layout=compact" alt="monir178" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=monir178&show_icons=true&locale=en" alt="monir178" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monir178&" alt="monir178" />
 </p>
 
 
