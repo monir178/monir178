@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQFVKUTj8yo81w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729789524698?e=1735171200&v=beta&t=xfxDdVSV0o2BmV_dm-2am_KQtptQ6CWVUnmzMAlKAKA" alt="Banner" />
 
 <h1 align="center">Hi 👋, I'm Moniruzzaman Monir</h1>
-<h3 align="center">A passionate MERN Stack developer</h3>
+<h3 align="center">A passionate FULL Stack developer</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=monir178&label=Profile%20views&color=0e75b6&style=flat" alt="monir178" /> 
