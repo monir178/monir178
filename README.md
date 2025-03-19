@@ -80,7 +80,7 @@ I'm a passionate Full Stack Developer specializing in building modern web applic
 
 ### Total Commits
 <div align="center">
-  <h2 style="font-size: 2em; color: #FF5733; font-weight: bold;">Total Commits: 1500</h2>
+  <img src="https://img.shields.io/badge/Total%20Commits-!{total_commits}!%20commits-brightgreen" alt="Total Commits" />
 </div>
 
 ---
