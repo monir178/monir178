@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Moniruzzaman Monir</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h2 align="center" style="color: #4CAF50; font-weight: bold; font-size: 2.5em; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">Full Stack Developer</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/monir178/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -80,7 +80,7 @@ I'm a passionate Full Stack Developer specializing in building modern web applic
 
 ### Total Commits
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-1500%20commits-brightgreen" alt="Total Commits" />
+  <h2 style="font-size: 2em; color: #FF5733; font-weight: bold;">Total Commits: 1500</h2>
 </div>
 
 ---
