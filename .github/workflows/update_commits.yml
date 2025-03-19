@@ -1,0 +1,26 @@
+name: Update Total Commits
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update_commits:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Get total commits
+        run: |
+          total_commits=$(git rev-list --count HEAD)
+          echo "Total Commits: $total_commits" > total_commits.txt
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "you@example.com"
+          git config --local user.name "Your Name"
+          git add total_commits.txt
+          git commit -m "Update total commits"
+          git push
