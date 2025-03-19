@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQFVKUTj8yo81w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729789524698?e=1741824000&v=beta&t=4DGbN1DdjRxlZrLp0NQaug0S4As3mtEPvHs0MIhnFKs" alt="Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQFVKUTj8yo81w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729789524698?e=1747872000&v=beta&t=G5aCz6FwS5je1c994VHdm-ftPPRYD_7lc9J7EmNTqsc" alt="Banner" width="100%" />
 </div>
 
 <h1 align="center">Moniruzzaman Monir</h1>
@@ -80,7 +80,7 @@ I'm a passionate Full Stack Developer specializing in building modern web applic
 
 ### Total Commits
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-1500%20commits-brightgreen" alt="Total Commits" />
+  <img src="https://img.shields.io/badge/Total%20Commits-1789%20commits-brightgreen" alt="Total Commits" />
 </div>
 ---
 
