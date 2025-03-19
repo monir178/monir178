@@ -15,8 +15,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3o6Zt8F1g0g0g0g0g0/giphy.gif">
-
 ## 💼 About Me
 
 I'm a passionate Full Stack Developer specializing in building modern web applications. With expertise in the MERN stack and Next.js, I create robust, scalable, and user-friendly digital solutions. I'm committed to writing clean, maintainable code and constantly expanding my technical knowledge.
@@ -31,48 +29,45 @@ I'm a passionate Full Stack Developer specializing in building modern web applic
 
 ## 🛠️ Technical Skills
 
-<details>
-<summary><b>Frontend</b></summary>
-<br>
-  
+### Frontend
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/-RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-FF4785?style=for-the-badge&logo=react&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-</details>
 
-<details>
-<summary><b>Backend</b></summary>
-<br>
-  
+### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![NextAuth](https://img.shields.io/badge/-NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white)
-</details>
 
-<details>
-<summary><b>Database</b></summary>
-<br>
-  
+### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-</details>
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<details>
-<summary><b>DevOps & Tools</b></summary>
-<br>
-  
+### DevOps & Tools
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Husky](https://img.shields.io/badge/-Husky-4479A1?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-</details>
 
 ---
 
@@ -81,6 +76,11 @@ I'm a passionate Full Stack Developer specializing in building modern web applic
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monir178&show_icons=true&count_private=true&theme=radical" alt="monir178" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monir178&layout=compact&theme=radical" alt="monir178" />
+</div>
+
+### Total Commits
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20Commits-!{total_commits}!%20commits-brightgreen" alt="Total Commits" />
 </div>
 
 ---
