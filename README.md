@@ -78,6 +78,13 @@ I'm a passionate Full Stack Developer specializing in building modern web applic
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monir178&layout=compact&theme=radical" alt="monir178" />
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monir178&show_icons=true&count_private=true&theme=radical" alt="monir178" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monir178&layout=compact&theme=radical" alt="monir178" />
+</div>
+
 ### Total Commits
 <div align="center">
   <img src="https://img.shields.io/badge/Total%20Commits-!{total_commits}!%20commits-brightgreen" alt="Total Commits" />
