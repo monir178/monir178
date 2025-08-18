@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQFVKUTj8yo81w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729789524698?e=1747872000&v=beta&t=G5aCz6FwS5je1c994VHdm-ftPPRYD_7lc9J7EmNTqsc" alt="Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHLONBBbpmyVg/profile-displaybackgroundimage-shrink_350_1400/B56Zi85t7NHUAY-/0/1755515906523?e=1758153600&v=beta&t=2eYtKhYQ8IZn0Q2cftZGV4IhIjfNDR2e-SIqy1mbPzw" alt="Banner" width="100%" />
 </div>
 
 <h1 align="center">Moniruzzaman Monir</h1>
