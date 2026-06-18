@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/monir178/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:monir.mzs17@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://site-monir.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://www.moniruzzaman.dev"><img src="https://img.shields.io/badge/-Portfolio-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=monir178&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -19,7 +19,7 @@
 
 I'm a passionate Full Stack Developer specializing in building modern web applications. With expertise in the MERN stack and Next.js, I create robust, scalable, and user-friendly digital solutions. I'm committed to writing clean, maintainable code and constantly expanding my technical knowledge.
 
-- 👨‍💻 Portfolio: [View Portfolio](https://monir-site-xi.vercel.app/)
+- 👨‍💻 Portfolio: [View Portfolio](https://www.moniruzzaman.dev/)
 - 📄 Resume: [View My Resume](https://drive.google.com/file/d/1pIUENd266GYgfZjwPIHl2nrAZKXbnavj/view?usp=drive_link)
 - 📫 Contact: **monir.mzs17@gmail.com**
 
