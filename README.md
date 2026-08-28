@@ -1,22 +1,22 @@
 <div align="center">
 
-  <!-- Terminal Green Liquid Wavy Header Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:090D16,20:042F2E,50:10B981,100:00FF66&height=220&section=header&text=Moniruzzaman%20Monir&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36" width="100%"/>
+  <!-- Green Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:090D16,20:042F2E,50:10B981,100:00FF66&height=200&section=header&text=Moniruzzaman%20Monir&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=36" width="100%"/>
 
-  <!-- Terminal Green Dynamic Animated Typing Header -->
+  <!-- Dynamic Typing Subtitle Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Full+Stack+Web+Architect;%F0%9F%92%A1+Next.js+%2B+NestJS+%2B+MERN+Specialist;%F0%9F%AA%A7+Liquid+Glass+UI%2FUX+%2B+Terminal+Green;%F0%9F%9A%80+Building+Scalable+Cloud-Native+Apps;%F0%9F%92%BB+monir%40dev%3A~%24+sudo+launch+--app" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%26+NestJS+Specialist;Building+Scalable+Web+Applications;Clean+Code+%26+Modern+Architecture" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Call to Action Badges (WhatsApp & Phone numbers removed) -->
+  <!-- Quick Action Links -->
   <p align="center">
     <a href="https://www.moniruzzaman.dev/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-00FF66?style=for-the-badge&logo=Google-Chrome&logoColor=0D1117" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Portfolio-00FF66?style=for-the-badge&logo=Google-Chrome&logoColor=0D1117" alt="Portfolio"/>
     </a>
     <a href="https://drive.google.com/file/d/1pIUENd266GYgfZjwPIHl2nrAZKXbnavj/view?usp=drive_link" target="_blank">
-      <img src="https://img.shields.io/badge/📄_Resume-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+      <img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
     </a>
     <a href="https://www.linkedin.com/in/monir178/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
@@ -27,59 +27,54 @@
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=monir178&label=SYSTEM%20VIEWS&color=00FF66&style=flat-square" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=monir178&label=PROFILE%20VIEWS&color=00FF66&style=flat-square" alt="Profile views" />
   </p>
 
 </div>
 
 ---
 
-### 📟 `monir@terminal:~$ whoami`
+### 💼 About Me
 
-```typescript
-/**
- * 🧪 LOG: terminal.moniruzzaman.dev
- * 📟 VIBE: Liquid Glass 🧪 x Terminal Green 🟢
- */
-import { Developer } from '@monir178/terminal';
+Passionate **Full Stack Developer** specializing in building scalable, robust web applications. Proficient in **TypeScript**, **Next.js**, **NestJS**, and the **MERN Stack**, with a strong commitment to writing clean, maintainable code and engineering modern web solutions.
 
-export const monir: Developer = {
-  name: "Moniruzzaman Monir",
-  role: "Full Stack Engineer & Web Architect",
-  status: "🟢 SYSTEM_ONLINE | Open to Collaborations",
-  location: "Bangladesh 🇧🇩",
-  stack: {
-    frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Zustand", "Redux"],
-    backend:  ["NestJS", "Node.js", "Express.js", "REST APIs", "WebSockets"],
-    database: ["PostgreSQL", "MongoDB", "Supabase", "SQL"],
-    devops:   ["Docker", "Jest", "Git", "Vercel"]
-  },
-  prompt: "monir@dev:~$ npx run-project --theme=liquid-glass"
-};
-```
+- 🔭 **Currently Working On:** Full-stack web applications built with **Next.js**, **NestJS**, and **PostgreSQL**.
+- 🌱 **Learning & Exploring:** Advanced DevOps, microservices architecture, and cloud infrastructure.
+- 🌐 **Portfolio:** [moniruzzaman.dev](https://www.moniruzzaman.dev/)
+- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1pIUENd266GYgfZjwPIHl2nrAZKXbnavj/view?usp=drive_link)
+- 📬 **Contact:** monir.mzs17@gmail.com
 
 ---
 
-### ⚡ System Core Specializations
+### 🛠️ Technical Skills
+
+<div align="center">
+
+  <!-- Tech Stack Icon Grid -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,redux,tailwind,html,css,nestjs,nodejs,express,mongodb,postgres,supabase,docker,git,jest,figma,postman,vercel,storybook&perline=11" alt="Tech Stack" />
+  </a>
+
+</div>
+
+<br/>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🎨 Frontend & Liquid UI</h4>
+      <h4 align="center">Frontend Development</h4>
       <ul>
-        <li><b>Frameworks:</b> Next.js (App Router), React 18+</li>
-        <li><b>Languages:</b> TypeScript, JavaScript (ES6+)</li>
+        <li><b>Core:</b> Next.js, React, TypeScript, JavaScript</li>
         <li><b>State Management:</b> Redux Toolkit, RTK Query, Zustand</li>
-        <li><b>Styling & Motion:</b> Tailwind CSS, Framer Motion, Storybook</li>
+        <li><b>Styling & UI:</b> Tailwind CSS, HTML5, CSS3, Framer Motion, Storybook</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">⚙️ Backend & Cloud Engine</h4>
+      <h4 align="center">Backend & Infrastructure</h4>
       <ul>
         <li><b>Frameworks:</b> NestJS, Node.js, Express.js</li>
-        <li><b>Databases:</b> PostgreSQL, MongoDB, Supabase</li>
-        <li><b>APIs & Realtime:</b> RESTful APIs, WebSockets, NextAuth, JWT</li>
-        <li><b>DevOps & Testing:</b> Docker, Jest, Git, Husky, Vercel</li>
+        <li><b>Databases:</b> PostgreSQL, MongoDB, Mongoose, Supabase, SQL</li>
+        <li><b>APIs & Tools:</b> REST APIs, WebSockets, JWT, NextAuth, Docker, Jest, Git, Vercel</li>
       </ul>
     </td>
   </tr>
@@ -87,66 +82,23 @@ export const monir: Developer = {
 
 ---
 
-### 🛠️ Tech Stack Ecosystem
-
-<div align="center">
-
-  <!-- Interactive Skill Icons Grid -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,redux,tailwind,html,css,nestjs,nodejs,express,mongodb,postgres,supabase,docker,git,jest,figma,postman,vercel,storybook&perline=11" alt="Monir's Tech Stack" />
-  </a>
-
-</div>
-
-<br/>
-
-<details open>
-<summary>🔍 <b>Expand Complete Skills Matrix</b></summary>
-<br/>
-
-| Category | Technology Stack |
-| :--- | :--- |
-| **Languages** | `TypeScript` • `JavaScript (ES6+)` • `HTML5` • `CSS3` • `SQL` |
-| **Frontend** | `Next.js` • `React` • `Redux Toolkit` • `RTK Query` • `Zustand` • `Tailwind CSS` • `Framer Motion` • `Storybook` |
-| **Backend** | `NestJS` • `Node.js` • `Express.js` • `REST API` • `WebSockets` • `JWT` • `NextAuth.js` |
-| **Databases** | `MongoDB` • `Mongoose` • `PostgreSQL` • `Supabase` • `SQL` |
-| **Testing & DevOps** | `Jest` • `Docker` • `Git` • `Husky` • `Vercel` |
-| **Design & Tools** | `Figma` • `Postman` • `Notion` • `Canva` |
-
-</details>
-
----
-
-### 🐍 Contribution Activity Stream
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/monir178/monir178/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</div>
-
----
-
-### 📊 Matrix Analytics & Activity
+### 📊 GitHub Statistics
 
 <div align="center">
 
   <a href="https://github.com/monir178">
-    <img height="170" src="https://github-stats-extended.vercel.app/api?username=monir178&show_icons=true&bg_color=0D1117&title_color=00FF66&text_color=E2E8F0&icon_color=00FF66&border_color=00FF66&count_private=true" alt="GitHub Stats" />
+    <img height="175" src="https://github-stats-extended.vercel.app/api?username=monir178&show_icons=true&bg_color=0D1117&title_color=00FF66&text_color=E2E8F0&icon_color=00FF66&border_color=00FF66&count_private=true" alt="GitHub Stats" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/monir178">
-    <img height="170" src="https://streak-stats.demolab.com/?user=monir178&theme=matrix" alt="GitHub Streak" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/monir178">
-    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=monir178&layout=compact&bg_color=0D1117&title_color=00FF66&text_color=E2E8F0&icon_color=00FF66&border_color=00FF66" alt="Top Languages" />
+    <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=monir178&layout=compact&bg_color=0D1117&title_color=00FF66&text_color=E2E8F0&icon_color=00FF66&border_color=00FF66" alt="Top Languages" />
   </a>
 
 </div>
 
 ---
 
-### 🌐 Connect & Transmit
+### 🌐 Connect With Me
 
 <div align="center">
 
@@ -177,6 +129,6 @@ export const monir: Developer = {
 <br/>
 
 <div align="center">
-  <!-- Terminal Green Liquid Wavy Footer Animation -->
+  <!-- Green Waving Footer Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:090D16,20:042F2E,50:10B981,100:00FF66&height=100&section=footer" width="100%"/>
 </div>
