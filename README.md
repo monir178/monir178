@@ -87,7 +87,7 @@ Passionate **Full Stack Developer** specializing in building scalable, robust we
 <div align="center">
 
   <a href="https://github.com/monir178">
-    <img height="175" src="https://github-stats-extended.vercel.app/api?username=monir178&show_icons=true&bg_color=0D1117&title_color=00FF66&text_color=E2E8F0&icon_color=00FF66&border_color=00FF66&count_private=true" alt="GitHub Stats" />
+    <img height="175" src="https://github-stats-extended.vercel.app/api?username=monir178&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=00FF66&text_color=E2E8F0&icon_color=00FF66&border_color=00FF66&count_private=true" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/monir178">
